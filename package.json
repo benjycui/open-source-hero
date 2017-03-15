@@ -1,0 +1,23 @@
+{
+  "name": "open-source-hero",
+  "version": "0.1.0",
+  "description": "A CLI tool to get how many repositories a user had contributed to.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjycui/open-source-hero.git"
+  },
+  "keywords": [
+    "github",
+    "contributions"
+  ],
+  "author": "Benjy Cui",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/benjycui/open-source-hero/issues"
+  },
+  "homepage": "https://github.com/benjycui/open-source-hero#readme",
+  "dependencies": {
+    "github": "^9.2.0"
+  }
+}
