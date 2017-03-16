@@ -32,6 +32,7 @@ async function getAllReposContributed(user) {
   return Object.keys(unique);
 }
 
+console.log('In progress...');
 getAllReposContributed(username)
   .then(repos => {
     console.log(`${username} had contributed to ${repos.length} repositories.`);
