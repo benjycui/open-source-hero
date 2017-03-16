@@ -1,6 +1,6 @@
 {
   "name": "open-source-hero",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A CLI tool to get how many repositories a user had contributed to.",
   "bin": "index.js",
   "engines": {
